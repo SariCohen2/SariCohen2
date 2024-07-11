@@ -43,8 +43,10 @@ There's nothing like the thrill of coding! Whether it's solving a complex proble
 
 ## ✨ Projects
 Check out some of my latest projects:
-- **[Project A](https://github.com/SariCohen2/Angular_project_with_api):** An angular minimal project with using C# api
-- **[Project B](https://github.com/SariCohen2/memoryGame):** Cute memory game in JS, CSS, HTML languages
+- **[Angular project](https://github.com/SariCohen2/Angular_project_with_api):** An angular minimal project with using C# api
+- **[Java script](https://github.com/SariCohen2/memoryGame):** Cute memory game in JS, CSS, HTML languages
+- **[Java (hibernate)](https://github.com/SariCohen2/JavaProject):** A basic project in Java using servlets, and accessing a database using the hibernate framework
+- **[Simple python project](https://github.com/SariCohen2/python_project):** A Python project that uses the pillow library
 
 ---
 
