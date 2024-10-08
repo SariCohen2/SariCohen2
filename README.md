@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Sarah Cohen (@SariCohen2)
 
-![Profile Banner](https://www.google.com/imgres?q=%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA%20%D7%A8%D7%A7%D7%A2%20%D7%9C%D7%9E%D7%97%D7%A9%D7%91%20%D7%A9%D7%9C%20%D7%9E%D7%AA%D7%9B%D7%A0%D7%AA&imgurl=https%3A%2F%2Fpickture.co.il%2Fwp-content%2Fuploads%2F2023%2F05%2F%25D7%25A8%25D7%25A7%25D7%25A2-%25D7%2599%25D7%25A4%25D7%2594-%25D7%259C%25D7%2594%25D7%2595%25D7%25A8%25D7%2593%25D7%2594-%25D7%2597%25D7%2599%25D7%25A0%25D7%259D-39-768x768.jpg&imgrefurl=https%3A%2F%2Fpickture.co.il%2F%25D7%25AA%25D7%259E%25D7%2595%25D7%25A0%25D7%2595%25D7%25AA-%25D7%25A8%25D7%25A7%25D7%25A2%25D7%2599%25D7%259D%2F&docid=qMlEZS3nCkvKAM&tbnid=53DCHZeSUtLhLM&vet=12ahUKEwj79JbY6f6IAxUVA9sEHdVaICIQM3oFCIMBEAA..i&w=768&h=768&hcb=2&ved=2ahUKEwj79JbY6f6IAxUVA9sEHdVaICIQM3oFCIMBEAA/1000x200?text=Welcome+to+my+GitHub+Profile!)
-
 ## 🚀 About Me
 
 I'm passionate about everything related to coding and new technologies. Currently, I'm on an exciting journey towards earning my software engineering degree. I love learning new things, expanding my knowledge, and diving deep into the world of software development.
