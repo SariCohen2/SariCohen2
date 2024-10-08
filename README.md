@@ -1,22 +1,8 @@
-# 👋 Hi, I'm Sarah Cohen (@SariCohen2)
+## 👋 Hi, I'm **Sarah Cohen**   (@SariCohen2)
+### Passionate Software Engineer | Tech Enthusiast | Lifelong Learner
 
 ## 🚀 About Me
-
-I’m a software engineering student passionate about coding, technology, and constant learning. I'm always curious about new challenges, aiming to build innovative solutions and enhance my skills.
-
-### 🌟 Interests
-- **Coding**: Bringing ideas to life through code.
-- **Technology**: Keeping up with the latest trends and innovations.
-- **Collaboration**: Building projects together and learning from others.
-
-### 🤝 Let's Collaborate
-I'm eager to collaborate on challenging projects. If you have an interesting idea, feel free to connect with me!
-
-### ✨ Fun Fact
-I find joy in every aspect of the coding journey, whether it’s solving complex problems or creating intuitive user interfaces.
-
----
-
+I’m a passionate software engineering student with a love for coding, technology, and continuous learning. I enjoy tackling new challenges, building innovative solutions, and improving my skills along the way. I thrive on collaboration and am always open to working on exciting projects. Whether it's solving complex problems or creating intuitive user interfaces, I find joy in every step of the coding journey.
 ## 💻 Skills & Tools
 
 ### 🖥 Programming Languages
@@ -25,6 +11,7 @@ I find joy in every aspect of the coding journey, whether it’s solving complex
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -32,15 +19,45 @@ I find joy in every aspect of the coding journey, whether it’s solving complex
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
+<details>
+<summary>Skill Levels</summary>
+<p>
+  <b>C#</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>Java</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>Python</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner"> &nbsp;
+  <b>TypeScript</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>JavaScript</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>C</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
+  <b>C++</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
+  <b>HTML5</b>: <img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert"> &nbsp;
+  <b>CSS</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>SQL</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate">
+</p>
+</details>
+
 ### 🖥 Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </p>
+
+<details>
+<summary>Skill Levels</summary>
+<p>
+  <b>.NET Core</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>Angular</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>React</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner"> &nbsp;
+  <b>Redux</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner"> &nbsp;
+  <b>Hibernate</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
+  <b>MUI</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
+  <b>Bootstrap</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner">
+</p>
+</details>
 
 ### 🛠 Tools & Platforms
 <p>
@@ -56,7 +73,21 @@ I find joy in every aspect of the coding journey, whether it’s solving complex
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
 </p>
 
----
+<details>
+<summary>Skill Levels</summary>
+<p>
+  <b>Docker</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner"> &nbsp;
+  <b>Git</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>Postman</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>Swagger</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>Visual Studio</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
+  <b>Jupyter</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
+  <b>Anaconda</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
+  <b>PyCharm</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
+  <b>NetBeans</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
+  <b>Eclipse</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate">&nbsp;
+</p>
+</details>
 
 ## 🏆 Achievements
 ![Achievements](https://github-profile-trophy.vercel.app/?username=SariCohen2&theme=onedark)
@@ -75,6 +106,4 @@ I find joy in every aspect of the coding journey, whether it’s solving complex
 - **[Java Hibernate Project](https://github.com/SariCohen2/JavaProject)**: A basic Java project utilizing servlets and Hibernate for database access.
 - **[Python Pillow Project](https://github.com/SariCohen2/python_project)**: A Python project with image manipulation using Pillow.
 
----
-
-🌟 *Learning, contributing, and creating awesome things—one line of code at a time!*
+🎯 *Bringing imagination to life through code, because every great idea deserves to run.*
