@@ -1,8 +1,9 @@
 ## 👋 Hi, I'm **Sarah Cohen**   (@SariCohen2)
-### Passionate Software Engineer | Tech Enthusiast | Lifelong Learner
+### Full Stack Developer | Currently in QA at [AudioCodes](https://www.audiocodes.com/) | Tech Enthusiast | Lifelong Learner  
 
-## 🚀 About Me
-I’m a passionate software engineering student with a love for coding, technology, and continuous learning. I enjoy tackling new challenges, building innovative solutions, and improving my skills along the way. I thrive on collaboration and am always open to working on exciting projects. Whether it's solving complex problems or creating intuitive user interfaces, I find joy in every step of the coding journey.
+## 🚀 About Me  
+I'm a passionate **Full Stack Developer** with a strong background in software engineering. While currently working in **software testing** at [AudioCodes](https://www.audiocodes.com/), I continue to expand my expertise in both **backend and frontend development**. I thrive on solving complex problems, building efficient and scalable applications, and constantly learning new technologies. I enjoy collaborating with teams to create high-quality software solutions that enhance user experience and performance.  
+
 ## 💻 Skills & Tools
 
 ### 🖥 Programming Languages
