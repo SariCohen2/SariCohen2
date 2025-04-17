@@ -1,8 +1,8 @@
 ## ✨ Hey there! I'm Sara Cohen (@SariCohen2) 🚀
-### Full Stack Developer | Currently in QA at [AudioCodes](https://www.audiocodes.com/)   
+### Full Stack Developer | Currently in Automation development at [AudioCodes](https://www.audiocodes.com/)   
 
 ## 🚀 About Me  
-I'm a passionate **Full Stack Developer** with a strong background in software engineering. While currently working in **software testing** at [AudioCodes](https://www.audiocodes.com/), I continue to expand my expertise in both **backend and frontend development**. I thrive on solving complex problems, building efficient and scalable applications, and constantly learning new technologies. I enjoy collaborating with teams to create high-quality software solutions that enhance user experience and performance.  
+I'm a passionate **Full Stack Developer** with a strong background in software engineering. While currently working in **Automation development** at [AudioCodes](https://www.audiocodes.com/), I continue to expand my expertise in both **backend and frontend development**. I thrive on solving complex problems, building efficient and scalable applications, and constantly learning new technologies. I enjoy collaborating with teams to create high-quality software solutions that enhance user experience and performance.  
 
 ## 💻 Skills & Tools
 
