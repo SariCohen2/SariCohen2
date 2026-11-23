@@ -117,4 +117,4 @@ Additional tools: Gerrit, CI/CD, MongoDB Atlas, Swagger, Visual Studio, Jupyter 
 
 ---
 
-🎯 *“You haven't mastered a tool until you understand when it should not be used.”*
+🎯 *“You haven't mastered a tool until you understand when it should **not** be used.”*
