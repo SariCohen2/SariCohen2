@@ -117,4 +117,4 @@ Additional tools: Gerrit, CI/CD, MongoDB Atlas, Swagger, Visual Studio, Jupyter 
 
 ---
 
-🎯 *Engineering quality, building automation, exploring AI, and turning complex challenges into effective solutions.*
+🎯 *“You haven't mastered a tool until you understand when it should not be used.”*
