@@ -1,110 +1,120 @@
-## ✨ Hey there! I'm Sara Cohen (@SariCohen2) 🚀
-### Full Stack Developer | Currently in Automation development at [AudioCodes](https://www.audiocodes.com/)   
 
-## 🚀 About Me  
-I'm a passionate **Full Stack Developer** with a strong background in software engineering. While currently working in **Automation development** at [AudioCodes](https://www.audiocodes.com/), I continue to expand my expertise in both **backend and frontend development**. I thrive on solving complex problems, building efficient and scalable applications, and constantly learning new technologies. I enjoy collaborating with teams to create high-quality software solutions that enhance user experience and performance.  
+# 👋 Hey there! I'm Sara Cohen 
 
-## 💻 Skills & Tools
+### QA & Automation Engineer | Python Developer | AI Engineering
 
-### 🖥 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</p>
+Currently working at [AudioCodes](https://www.audiocodes.com/), combining software development, automation engineering, and AI-powered workflow optimization.
 
-<details>
-<summary>Skill Levels</summary>
-<p>
-  <b>C#</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>Java</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>Python</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner"> &nbsp;
-  <b>TypeScript</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>JavaScript</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>C</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
-  <b>C++</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
-  <b>HTML5</b>: <img src="https://img.shields.io/badge/Expert-brightgreen" alt="Expert"> &nbsp;
-  <b>CSS</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>SQL</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate">
-</p>
-</details>
+---
 
-### 🖥 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-</p>
+## 🚀 About Me
 
-<details>
-<summary>Skill Levels</summary>
-<p>
-  <b>.NET Core</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>Angular</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>React</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner"> &nbsp;
-  <b>Redux</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner"> &nbsp;
-  <b>Hibernate</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
-  <b>MUI</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
-  <b>Bootstrap</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner">
-</p>
-</details>
+I'm a software engineer with a strong focus on **Python Development, QA Automation, and AI Engineering**.
 
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
-</p>
+At **AudioCodes**, I combine hands-on QA engineering with automation development, building and maintaining automation solutions while working with complex software systems.
 
-<details>
-<summary>Skill Levels</summary>
-<p>
-  <b>Docker</b>: <img src="https://img.shields.io/badge/Beginner-red" alt="Beginner"> &nbsp;
-  <b>Git</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>Postman</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>Swagger</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>Visual Studio</b>: <img src="https://img.shields.io/badge/Proficient-brightgreen" alt="Proficient"> &nbsp;
-  <b>Jupyter</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
-  <b>Anaconda</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
-  <b>PyCharm</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
-  <b>NetBeans</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate"> &nbsp;
-  <b>Eclipse</b>: <img src="https://img.shields.io/badge/Intermediate-yellow" alt="Intermediate">&nbsp;
-</p>
-</details>
+My experience and interests include:
 
-## 🏆 Achievements
-![Achievements](https://github-profile-trophy.vercel.app/?username=SariCohen2&theme=onedark)
+- **Automation Development:** Developing and maintaining Python-based automation solutions using Pytest, Selenium, and Playwright.
+- **API & Backend Testing:** Strong experience in REST API testing, integration testing, and backend validation.
+- **Test Engineering:** Translating product requirements and PRDs into comprehensive test plans, identifying edge cases, design gaps, and potential quality risks.
+- **System Investigation:** Analyzing logs, investigating failures, and performing root cause analysis across different system layers.
+- **AI Skills & Agents Development:** Collaborating in designing, building, and improving custom AI skills and agents using Claude.
+- **AI Workflow Optimization:** Finding opportunities to automate workflows, streamline processes, and reduce repetitive tasks using AI.
+- **AI-Assisted Software Development:** Leveraging AI tools for code generation, analysis, refactoring, debugging, and solving complex technical challenges.
 
-> 🔒 *Note: Private achievements are also part of my journey!*
+I'm passionate about understanding systems from the inside out, solving challenging technical problems, and exploring how software engineering and AI can work together to build smarter solutions.
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SariCohen2&show_icons=true&theme=radical)
+---
 
-## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SariCohen2&layout=compact&theme=radical)
+## 💻 Technical Skills
+
+### 🐍 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚙️ Automation & Testing
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+- Python Test Automation
+- REST API Testing
+- Integration & End-to-End Testing
+- Test Planning & Test Design
+- Backend & Frontend Validation
+- Log Analysis & Root Cause Analysis
+
+### 🤖 AI Engineering & AI-Powered Workflows
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+- **AI Skills & Agents Development:** Collaborating in designing, building, and improving custom AI skills and agents.
+- **AI Workflow Optimization:** Designing and improving AI-powered workflows to streamline development processes and reduce repetitive tasks.
+- **AI-Assisted Software Development:** Using Claude and GitHub Copilot for code generation, analysis, refactoring, debugging, and problem-solving.
+- **AI-Driven Problem Solving:** Leveraging AI to analyze requirements, explore technical solutions, and improve implementation approaches.
+- **Process Automation:** Identifying opportunities to integrate AI into existing workflows to improve efficiency and accelerate development.
+
+### 🏗️ Frameworks & Technologies
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+Additional tools: Gerrit, CI/CD, MongoDB Atlas, Swagger, Visual Studio, Jupyter Notebook.
+
+---
+
+## 🎓 Education
+
+**Practical Engineer Diploma in Software Engineering (MAHAT)**
+
+**Kamatech – UltraCode Program**
+
+---
 
 ## ✨ Featured Projects
-- **[Angular API Project](https://github.com/SariCohen2/Angular_project_with_api)**: An Angular project using a C# API.
-- **[Memory Game](https://github.com/SariCohen2/memoryGame)**: A cute memory game using JavaScript, CSS, and HTML.
-- **[Java Hibernate Project](https://github.com/SariCohen2/JavaProject)**: A basic Java project utilizing servlets and Hibernate for database access.
-- **[Python Pillow Project](https://github.com/SariCohen2/python_project)**: A Python project with image manipulation using Pillow.
 
-🎯 *Bringing imagination to life through code, because every great idea deserves to run.*
+- **[Angular API Project](https://github.com/SariCohen2/Angular_project_with_api)** – Angular application integrated with a C# REST API.
+- **[Memory Game](https://github.com/SariCohen2/memoryGame)** – Interactive memory game built with JavaScript, HTML, and CSS.
+- **[Java Hibernate Project](https://github.com/SariCohen2/JavaProject)** – Java application using Servlets and Hibernate for database access.
+- **[Python Pillow Project](https://github.com/SariCohen2/python_project)** – Python project involving image processing and manipulation with Pillow.
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SariCohen2&theme=onedark)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SariCohen2&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SariCohen2&layout=compact&theme=radical)
+
+---
+
+🎯 *Engineering quality, building automation, exploring AI, and turning complex challenges into effective solutions.*
